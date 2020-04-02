@@ -5,6 +5,7 @@ public class ChangePlace {
         for (int i = 0; i < massive.length; i++) {
             System.out.print(massive[i] + "\t");
         }
+
         System.out.println();
         int n = massive.length;
         String reversMassivi;

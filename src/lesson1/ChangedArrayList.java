@@ -14,5 +14,4 @@ public class ChangedArrayList {
             System.out.print( " " + "\t " + integer);
         }
     }
-
 }

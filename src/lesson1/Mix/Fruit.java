@@ -8,16 +8,8 @@ public abstract class Fruit {
         this.weigth = weigth;
     }
 
-    public void setWeigth(float weigth) {
-        this.weigth = weigth;
-    }
-
     public float getWeigth() {
         return weigth;
-    }
-
-    Fruit(){
-
     }
 
 }
