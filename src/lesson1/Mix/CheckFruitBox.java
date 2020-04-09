@@ -11,7 +11,7 @@ public class CheckFruitBox {
         Box<Orange> orangeBox = new Box<Orange>(orange, 6);
         System.out.println(orangeBox.getWeigh());
 
-        System.out.println("------------------------");
+        System.out.println("---------------------");
         System.out.println(appleBox.compare(orangeBox));
     }
 }
